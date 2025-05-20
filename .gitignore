@@ -33,6 +33,8 @@
 ## User settings
 xcuserdata/
 */*.xcodeproj/xcuserdata/**
+**/xcuserdata
+IDEWorkspaceChecks.plist
 
 ## Obj-C/Swift specific
 *.hmap
